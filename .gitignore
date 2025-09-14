@@ -3,6 +3,9 @@
 **/obj
 **/*.user
 **/Logs/*
+.idea
+App.java
+AppTest.java
 
 
 target/
